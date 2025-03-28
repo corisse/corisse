@@ -25,9 +25,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://vk.com/doc784326639_686652803?hash=VO8UXjvQEu2fr0pB8XzBXbin8wvkxBV6bEOFxRaieED&dl=EDj077bjmryN4RzpcrFR36sMuCJ2SmTGRAsZv7iQ510&api=1&no_preview=1"  />
-</div>
-
-###
