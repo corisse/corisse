@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://vk.com/doc784326639_686649595?hash=J2mIqnSafV6B2qxNY5kCGXeUZhSTZH6zYzc7GeZoKOH&dl=5KZE5x7VL8POTWMv3dqwDCBFvT4q4dlmucgmqq8T2lc&api=1&no_preview=1"  />
+  <img height="230" src="https://vk.com/doc784326639_686649595?hash=J2mIqnSafV6B2qxNY5kCGXeUZhSTZH6zYzc7GeZoKOH&dl=5KZE5x7VL8POTWMv3dqwDCBFvT4q4dlmucgmqq8T2lc&api=1&no_preview=1"  />
 </div>
 
 ###
