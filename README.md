@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="67" src="https://psv4.userapi.com/s/v1/d/6esXI7_N5IgBxeeHxu5OfPXy4rBB94S0ygYcMSp7IJV8_3um1-vs0K2m-rnlmXKY6pySAVuLLRDGxUiIAxQifXIbZyCVHQwe7ZdcizGdfp80iFdk2WjEgQ/Bez_nazvania553_20250420194742.png"  />
+  <img height="67" src="https://psv4.userapi.com/s/v1/d/pCSDtmqPwFpMK3bvYALtTces_3cJ0lN2EG7N2Q2A9fczsagrCJXVi42U7DG7fDsufJn9aGxCPJ_VyCUIQtPJYCHMjxPCYxHVbTdTtjrSohy0ATPMW-l1ow/Bez_nazvania553_20250420200204.png"  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="67" src="https://psv4.userapi.com/s/v1/d/6esXI7_N5IgBxeeHxu5OfPXy4rBB94S0ygYcMSp7IJV8_3um1-vs0K2m-rnlmXKY6pySAVuLLRDGxUiIAxQifXIbZyCVHQwe7ZdcizGdfp80iFdk2WjEgQ/Bez_nazvania553_20250420194742.png"  />
+  <img height="67" src="https://psv4.userapi.com/s/v1/d/pCSDtmqPwFpMK3bvYALtTces_3cJ0lN2EG7N2Q2A9fczsagrCJXVi42U7DG7fDsufJn9aGxCPJ_VyCUIQtPJYCHMjxPCYxHVbTdTtjrSohy0ATPMW-l1ow/Bez_nazvania553_20250420200204.png"  />
 </div>
 
 ###
