@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="260" src="https://img1.picmix.com/output/stamp/normal/7/9/9/1/391997_adc6a.gif"  />
+  <img height="255" src="https://img1.picmix.com/output/stamp/normal/7/9/9/1/391997_adc6a.gif"  />
 </div>
 
 ###
